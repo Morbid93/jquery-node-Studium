@@ -1,0 +1,14 @@
+body {
+	font-family: Arial, sans-serif;
+	color: #333;
+	background-color: #f4f4f4;
+}
+
+input[type="text"], input[type="submit"] {
+	margin: 10px 0;
+}
+
+/* Standart ausblenden der Informationen */
+.erklaerung {
+    display: none;
+}
